@@ -2898,7 +2898,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #45558d;
+				background-color: #403B2D;
 			}
 
 			input[type="submit"].primary.icon:before,
@@ -3300,7 +3300,7 @@ input, select, textarea {
 				}
 
 					#menu .links li a:hover {
-						background: #45558d;
+						background: #403B2D;
 					}
 
 		@media screen and (max-width: 736px) {
