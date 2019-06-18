@@ -1,0 +1,10 @@
+var dict = {
+  "Description": {
+en: "Description",
+    pt: "Descrição"
+  },
+  "RELEASE DATE": {
+    pt: "DATA DE LANÇAMENTO",
+    en: "RELEASE DATE"
+  }
+}
